@@ -16,6 +16,8 @@ and dénouement/resolution/revelation/catastrophe^[1]
 Here is basic guide about how to write an Essay. Try to use this guide to define
 what ideas should contain each section.
 
+Otro parrafo
+
 Please remember to write this essay as a storyteller. Considering the definition
 present  Under Freytag's pyramid, the plot of a story consists of five parts:
 exposition (originally called introduction), rising action (rise),
